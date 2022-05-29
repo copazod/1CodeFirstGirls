@@ -8,3 +8,7 @@ Session 7: Building & deploying your app (Part 2)
 Session 8: Project Presentations 
 
 This course was done from March 10th to April 28th, 2022.
+
+Michigan course covers more topics like:
+dictionaries
+
